@@ -26,17 +26,16 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @Mo_Tech_YT</b>"""
+<b>© @Termin_a_t_o_r</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @MRK_YT
+⭕️<b>Creater :</b> @Termin_a_t_o_r
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/d_oX4b7ucWM'>Video Link</a> 
 
 """
